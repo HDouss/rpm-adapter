@@ -57,7 +57,7 @@ import org.junit.jupiter.api.io.TempDir;
 public final class RpmTest {
 
     /**
-     * 
+     * Storage key for primary xml.
      */
     private static final String PRIMARY_XML_KEY = "repodata/primary.xml";
 
